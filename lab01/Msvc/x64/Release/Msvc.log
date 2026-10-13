@@ -1,7 +1,6 @@
 ﻿  direct_sort.cpp
   Generating code
-  23 of 6589 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
-    5 functions had inline decision re-evaluated but remain unchanged
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 6589 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
   Finished generating code
   Msvc.vcxproj -> C:\Users\User\Documents\resurse facultate\an 2\sem 1\FA\labs\utcn-fa-main\utcn-fa-main\lab01\x64\Release\Msvc.exe
